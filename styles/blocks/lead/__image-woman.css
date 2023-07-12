@@ -1,0 +1,11 @@
+.lead__image-woman {
+  width: 100%;
+}
+
+/*@media screen and (min-width:320px) and (max-width:768px){
+    .lead__image-woman {
+        width: 80%;
+        margin: 0 auto;
+        object-fit: cover;
+    }
+}*//*# sourceMappingURL=lead__image-woman.css.map */

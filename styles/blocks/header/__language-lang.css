@@ -2,10 +2,18 @@
     font-size: 24px;
     color: #FFFFFF;
     cursor: pointer;
-    font-weight: bold;
+    font-weight: 400px;
     margin-left: 7px;
+    font-style: normal;
+    line-height: 28px;
 }
 
 .header__language-lang:hover {
     border-bottom: solid 2px #ffffff;
+}
+
+@media screen and (min-width:320px) and (max-width:768px){
+    .header__language-lang {
+        font-size: 18px;
+    }
 }
