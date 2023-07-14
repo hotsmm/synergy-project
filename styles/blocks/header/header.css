@@ -1,10 +1,12 @@
 body {
     background-color: #4d4d4e;
+    color: #FFF;
+    font-family: Inter;
 }
 
 .header {
     display: flex;
     margin: 52px auto 0;
-    width: 85%;
+    width: 80%;
     justify-content: space-between;
 }

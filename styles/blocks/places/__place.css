@@ -1,0 +1,12 @@
+.places__place {
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+@media screen and (min-width:320px) and (max-width:786px) {
+    .places__place {
+        width: 90%;
+    }
+}
+
