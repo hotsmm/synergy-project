@@ -1,3 +1,5 @@
+@import url(./normalize.css);
+
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__logo.css);
 @import url(./blocks/header/__language.css);
@@ -14,3 +16,23 @@
 @import url(./blocks/intro/__title.css);
 @import url(./blocks/intro/__text.css);
 @import url(./blocks/intro/__list.css);
+
+@import url(./blocks/places/places.css);
+@import url(./blocks/places/__place.css);
+@import url(./blocks/places/__title.css);
+@import url(./blocks/places/__flex-row.css);
+@import url(./blocks/places/__website.css);
+@import url(./blocks/places/__text.css);
+@import url(./blocks/places/__link.css);
+@import url(./blocks/places/__paragraph.css);
+
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/__title.css);
+@import url(./blocks/cover/__subtitle.css);
+@import url(./blocks/cover/__subtitle-link.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__menu.css);
+@import url(./blocks/footer/__menu__copyright.css);
+@import url(./blocks/footer/__menu-link.css);
+@import url(./blocks/footer/__menu-link__copyright.css);

@@ -1,9 +1,9 @@
 .intro__text {
-    color: #FFF;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 163%; 
+    text-align: justify;
     padding-bottom: 33px;
 }
 
