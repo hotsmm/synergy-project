@@ -1,0 +1,6 @@
+.cover__boximage {
+    position: absolute;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
