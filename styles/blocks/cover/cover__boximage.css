@@ -1,6 +1,20 @@
 .cover__boximage {
-    position: absolute;
-    margin: 0 auto;
+   /* position: absolute;
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding-left: 45px;*/
+    width: 95%;
+    /*background-color: #2A2C2F;*/
+    position: relative;
+    text-align: center;
+    /*color: #ffffff;*/
+    margin: 0 auto;
+}
+
+
+@media screen and (min-width:1024px) and (max-width:1440px) {
+    /*.cover__boximage {
+        padding-left: 0;
+    }    */
 }

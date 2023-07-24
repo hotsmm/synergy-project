@@ -5,7 +5,7 @@
     line-height: 76px; /* 105.556% */
     margin: 0 auto;
     width: 500px;
-    padding-top: 235px;
+    /*padding-top: 20px;*/
     text-align: center;
     padding-bottom: 30px;
     text-shadow: 0 0 2em black, 0 0 0.2em black;
@@ -16,6 +16,6 @@
     font-size: 32px;
     line-height: 35px;
     width: 200px;
-    padding-top: 35px;
+    /*padding-top: 35px;*/
    } 
 }
